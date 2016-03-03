@@ -1,5 +1,11 @@
 [Dell Venue Pro 11 5130] Windows 8.1 Manual Format Guide, Written by RainC, DongGyu Kim.
 
+# 0. 이 글은
+*  델 베뉴 프로 5130 모델에서 임의로 포맷하는 방법을 안내한 글 입니다.
+*  델 베뉴 사용자가 아니더라도 일반 사용자들이 쉽게 따라하실 수 있습니다.
+*  델 베뉴 제품이 아니고, 램이 4GB 이상이며, 하드디스크가 2TB 이상이신 분이면 64Bit 를 선택해주시고, 적합한 운영체제를 선택하여 진행하시기 바랍니다.
+*  작업 진행에 지장이 있으면 "Windows 8.1 설치 방법" 을 검색해보면서 차근 차근 진행하시기 바랍니다.
+
 # 1. Before Installing (설치 전)
 *  USB 8GB - 2번에서 사용
 *  Windows 8.1 32Bit (Not Pro) 설치 이미지 - 2번에서 만듬
