@@ -3,7 +3,7 @@
 # 1. Before Installing (설치 전)
 *  USB 8GB
 *  Windows 8.1 32Bit (Not Pro) 설치 이미지
-*  USB 허브 (USB 확장 허브) - http://www.aten.co.kr/products/Mobility-&-USB/USB-%EC%97%B0%EC%9E%A5%EA%B8%B0/USB-2.0-%EC%97%B0%EC%9E%A5%EA%B8%B0-+-4%ED%8F%AC%ED%8A%B8-%ED%97%88%EB%B8%8C~UE2120H.html
+*  USB 허브 (USB 확장 허브) - [예시 사진](http://www.aten.co.kr/products/Mobility-&-USB/USB-%EC%97%B0%EC%9E%A5%EA%B8%B0/USB-2.0-%EC%97%B0%EC%9E%A5%EA%B8%B0-+-4%ED%8F%AC%ED%8A%B8-%ED%97%88%EB%B8%8C~UE2120H.html)
 
 # 2. Windows 8.1 32Bit USB 설치 이미지 만들기
 *  링크로 들어가서 Create Media 버튼 눌러서 파일 다운로드 후 실행.
@@ -29,3 +29,12 @@ http://windows.microsoft.com/en-us/windows-8/create-reset-refresh-media
 
 # 5. 설치 화면으로 이동
 ![DellVenue-WindowInstall](http://res1.windows.microsoft.com/resbox/en/6.3/main/b182803f-2d94-413f-b80f-3ef0ce277ecf_16.png)
+*  위 이미지와 같이 언어 선택 , 키보드 설정 화면이 나오면 사용자 설정에 맞게 설정 후 다음으로 이동합니다.
+
+# 6. 파티션 설정
+![Part](http://res1.windows.microsoft.com/resbox/en/6.3/main/6d886e76-7d91-4de2-b93e-ec65d008a72f_15.png)
+*  위 이미지처럼 파티션을 정리 후 다음으로 이동
+
+# 7. 설치 작업
+![inst](http://res2.windows.microsoft.com/resbox/en/6.3/main/0c78aab0-a1b9-41a5-a996-a552daaf4382_15.png)
+*  위 이미지가 나오면 설치 진행 중
