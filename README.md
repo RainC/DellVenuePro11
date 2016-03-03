@@ -20,9 +20,9 @@ http://windows.microsoft.com/en-us/windows-8/create-reset-refresh-media
 ```
 
 # 4. USB 로 부팅 순서 바꿔주기
-```
+
 ![Alt text](http://i.imgur.com/vjDBQd9.png)
-```
+
 
 
 # 4. 파티션은 모두 삭제 해야 함.
