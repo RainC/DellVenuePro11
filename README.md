@@ -17,7 +17,7 @@
 
 *  USB 허브 (USB 확장 허브) 
 
-# 2. Windows 8.1 32Bit USB 설치 이미지 만들기
+# 2. Windows 8.1 32Bit 설치용 USB 만들기
 ```
 http://windows.microsoft.com/en-us/windows-8/create-reset-refresh-media
 ```
