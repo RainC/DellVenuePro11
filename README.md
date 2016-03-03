@@ -25,16 +25,20 @@ http://windows.microsoft.com/en-us/windows-8/create-reset-refresh-media
 *  오른쪽에서 USB 이름이 감지 되면 USB를 1순위로 올려줍니다.
 *  부팅 순위를 올리는 방법은 화살표 버튼 클릭을 통하여 부팅 순서를 변경할 수 있습니다.
 *  부팅 순서 변경이 끝나면 Apply 버튼을 눌러준 후 Exit 를 누르면 변경사항이 저장됩니다.
-*  Image Youtube URL from : https://www.youtube.com/watch?v=4Eeh-YCXpEE
+*  Image from : https://www.youtube.com/watch?v=4Eeh-YCXpEE
 
 # 5. 설치 화면으로 이동
 ![DellVenue-WindowInstall](http://res1.windows.microsoft.com/resbox/en/6.3/main/b182803f-2d94-413f-b80f-3ef0ce277ecf_16.png)
 *  위 이미지와 같이 언어 선택 , 키보드 설정 화면이 나오면 사용자 설정에 맞게 설정 후 다음으로 이동합니다.
+*  Image from : [링크](http://windows.microsoft.com/en-us/windows-8/upgrade-from-windows-vista-xp-tutorial)
 
 # 6. 파티션 설정
 ![Part](http://res1.windows.microsoft.com/resbox/en/6.3/main/6d886e76-7d91-4de2-b93e-ec65d008a72f_15.png)
 *  위 이미지처럼 파티션을 정리 후 다음으로 이동
+*  Image from : [링크](http://windows.microsoft.com/en-us/windows-8/upgrade-from-windows-vista-xp-tutorial)
 
 # 7. 설치 작업
 ![inst](http://res2.windows.microsoft.com/resbox/en/6.3/main/0c78aab0-a1b9-41a5-a996-a552daaf4382_15.png)
 *  위 이미지가 나오면 설치 진행 중
+*  Image from : [링크](http://windows.microsoft.com/en-us/windows-8/upgrade-from-windows-vista-xp-tutorial)
+
