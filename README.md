@@ -22,8 +22,11 @@ http://windows.microsoft.com/en-us/windows-8/create-reset-refresh-media
 # 4. USB 로 부팅 순서 바꿔주기
 
 ![Alt text](http://i.imgur.com/vjDBQd9.png)
+*  오른쪽에서 USB 이름이 감지 되면 USB를 1순위로 올려줍니다.
+*  부팅 순위를 올리는 방법은 화살표 버튼 클릭을 통하여 부팅 순서를 변경할 수 있습니다.
+*  부팅 순서 변경이 끝나면 Apply 버튼을 눌러준 후 Exit 를 누르면 변경사항이 저장됩니다.
+*  이 사진의 출처는 https://www.youtube.com/watch?v=4Eeh-YCXpEE 입니다.
+*  Image Youtube URL from : https://www.youtube.com/watch?v=4Eeh-YCXpEE
 
+# 5. 설치 화면으로 가기
 
-
-# 4. 파티션은 모두 삭제 해야 함.
-*  USB 허브에 USB 와 마우스/키보드를 연결
