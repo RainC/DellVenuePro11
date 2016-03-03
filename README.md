@@ -24,7 +24,7 @@ http://windows.microsoft.com/en-us/windows-8/create-reset-refresh-media
 ```
 http://www.3dpchip.com/3dpchip/sub/net_kor.html
 ```
-*  2번 작업이 끝나면 하면 되는 작업이며, 3dp net 을 최신 버젼 다운로드를 클릭하여 네트워크 드라이버를 미리 받아둡니다 !!!
+*  2번 작업이 끝나면 하면 되는 작업이며, 3dp net 을 최신 버젼 다운로드를 클릭하여 네트워크 드라이버를 USB 에 미리 받아둡니다 !!!
 
 # 3. Dell Venue 11 Pro BIOS 접근
 *  이 작업은 USB 로 부팅하기 위한 절차입니다.
