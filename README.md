@@ -8,6 +8,7 @@
 
 # 1. Before Installing (설치 전)
 *  USB 8GB - 2번에서 사용
+![sd](http://www.busyboo.com/wp-content/uploads/small-usb-drive-clipit.jpg)
 *  Windows 8.1 32Bit (Not Pro) 설치 이미지 - 2번에서 만듬
 *  USB 허브 (USB 확장 허브) - [예시 사진](http://www.aten.co.kr/products/Mobility-&-USB/USB-%EC%97%B0%EC%9E%A5%EA%B8%B0/USB-2.0-%EC%97%B0%EC%9E%A5%EA%B8%B0-+-4%ED%8F%AC%ED%8A%B8-%ED%97%88%EB%B8%8C~UE2120H.html)
 
