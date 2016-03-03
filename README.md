@@ -54,7 +54,8 @@ http://www.3dpchip.com/3dpchip/sub/net_kor.html
 
 # 9. 인터넷 연결 (Wi-Fi Connect)
 *  3DP Net 사용
-*  
+*  2번에서 준비한 파일을 실행하여 네트워크 드라이버를 설치합니다.
+*  인터넷에 연결합니다.
 
 # 9. 드라이버 설치
 ```
