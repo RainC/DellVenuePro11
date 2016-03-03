@@ -7,8 +7,8 @@
 *  작업 진행에 지장이 있으면 "Windows 8.1 설치 방법" 을 검색해보면서 차근 차근 진행하시기 바랍니다.
 
 # 1. Before Installing (설치 전)
+![USB](http://www.busyboo.com/wp-content/uploads/small-usb-drive-clipit.jpg)
 *  USB 8GB - 2번에서 사용
-![sd](http://www.busyboo.com/wp-content/uploads/small-usb-drive-clipit.jpg)
 *  Windows 8.1 32Bit (Not Pro) 설치 이미지 - 2번에서 만듬
 *  USB 허브 (USB 확장 허브) - [예시 사진](http://www.aten.co.kr/products/Mobility-&-USB/USB-%EC%97%B0%EC%9E%A5%EA%B8%B0/USB-2.0-%EC%97%B0%EC%9E%A5%EA%B8%B0-+-4%ED%8F%AC%ED%8A%B8-%ED%97%88%EB%B8%8C~UE2120H.html)
 
