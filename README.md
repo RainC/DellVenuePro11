@@ -1,4 +1,5 @@
 [Dell Venue Pro 11 5130] Windows 8.1 Manual Format Guide
+Written by RainC, DongGyu Kim.
 
 # 1. Before Installing (설치 전)
 *  USB 8GB
