@@ -9,8 +9,10 @@
 # 1. Before Installing (설치 전)
 ![USB](http://www.busyboo.com/wp-content/uploads/small-usb-drive-clipit.jpg)
 *  USB 8GB - 2번에서 사용
+![iso](http://cdn.blogsdna.com/wp-content/uploads/2011/08/Windows-8-Native-ISO-Support.png)
 *  Windows 8.1 32Bit (Not Pro) 설치 이미지 - 2번에서 만듬
-*  USB 허브 (USB 확장 허브) - [예시 사진](http://www.aten.co.kr/products/Mobility-&-USB/USB-%EC%97%B0%EC%9E%A5%EA%B8%B0/USB-2.0-%EC%97%B0%EC%9E%A5%EA%B8%B0-+-4%ED%8F%AC%ED%8A%B8-%ED%97%88%EB%B8%8C~UE2120H.html)
+![usbhub](http://cdn.instructables.com/FOY/8BOO/GU1UZB5L/FOY8BOOGU1UZB5L.MEDIUM.jpg)
+*  USB 허브 (USB 확장 허브) 
 
 # 2. Windows 8.1 32Bit USB 설치 이미지 만들기
 ```
