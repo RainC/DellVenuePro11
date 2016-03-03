@@ -13,6 +13,12 @@
 ```
 http://windows.microsoft.com/en-us/windows-8/create-reset-refresh-media
 ```
+# 2-1. 3DP Net 으로 네트워크 드라이버 파일 준비
+```
+http://www.3dpchip.com/3dpchip/sub/net_kor.html
+```
+*  2번 작업이 끝나면 하면 되는 작업이며, 3dp net 을 최신 버젼 다운로드를 클릭하여 네트워크 드라이버를 미리 받아둡니다 !!!
+
 # 3. Dell Venue 11 Pro BIOS 접근
 *  이 작업은 USB 로 부팅하기 위한 절차입니다.
 ```
@@ -42,3 +48,20 @@ http://windows.microsoft.com/en-us/windows-8/create-reset-refresh-media
 *  위 이미지가 나오면 설치 진행 중
 *  Image from : [링크](http://windows.microsoft.com/en-us/windows-8/upgrade-from-windows-vista-xp-tutorial)
 
+# 8. 개인화 설정
+![private](http://res1.windows.microsoft.com/resbox/en/6.3/main/36852da7-5a42-4dde-ae6e-07ea67d49865_11.png)
+*  여기서부터는 사용자 입력, 색상 설정 등등 절차를 거치고 모든 설정이 끝나면 윈도우 포맷이 완료됩니다.
+
+# 9. 인터넷 연결 (Wi-Fi Connect)
+*  3DP Net 사용
+*  
+
+# 9. 드라이버 설치
+```
+http://www.dell.com/support/article/us/en/19/SLN179161
+```
+*  링크로 들어가서 드라이버 설치 가이드를 참고하시기 바랍니다. 
+
+
+# 10. 마칩니다. 읽어주셔서 감사합니다.
+*  Pull Request 받습니다.
