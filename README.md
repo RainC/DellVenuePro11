@@ -6,13 +6,14 @@
 *  USB 허브 (USB 확장 허브) - [예시 사진](http://www.aten.co.kr/products/Mobility-&-USB/USB-%EC%97%B0%EC%9E%A5%EA%B8%B0/USB-2.0-%EC%97%B0%EC%9E%A5%EA%B8%B0-+-4%ED%8F%AC%ED%8A%B8-%ED%97%88%EB%B8%8C~UE2120H.html)
 
 # 2. Windows 8.1 32Bit USB 설치 이미지 만들기
+```
+http://windows.microsoft.com/en-us/windows-8/create-reset-refresh-media
+```
 *  링크로 들어가서 Create Media 버튼 눌러서 파일 다운로드 후 실행.
 *  언어 - 언어 선택
 *  Edition - Windows 8.1
 *  Arch - x86
-```
-http://windows.microsoft.com/en-us/windows-8/create-reset-refresh-media
-```
+
 # 2-1. 3DP Net 으로 네트워크 드라이버 파일 준비
 ```
 http://www.3dpchip.com/3dpchip/sub/net_kor.html
