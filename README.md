@@ -68,7 +68,8 @@ http://www.3dpchip.com/3dpchip/sub/net_kor.html
 ```
 http://www.dell.com/support/article/us/en/19/SLN179161
 ```
-*  링크로 들어가서 드라이버 설치 가이드를 참고하시기 바랍니다. 
+*  링크로 들어가서 드라이버 설치 가이드를 참고하시기 바랍니다.
+*  델 베뉴 프로 전용 링크이기 때문에, 다른 사용자는 [링크](http://www.3dpchip.com/3dp/chip_down_kor.php)에서 최신 버젼 다운로드 후 드라이버 설치 진행을 하시기 바랍니다.
 
 
 # 10. 마칩니다. 읽어주셔서 감사합니다.
